@@ -7,4 +7,4 @@ Based on the data from the educational platform, I calculated the main metrics i
 - From the active user's R to purchase; 
 - The user's CR from math activity to the purchase of a math course.
 
-**Tool: SQL (Clickhouse), Python (Pandas)**
+**Tool: SQL (Clickhouse), Python (Pandahouse)**
