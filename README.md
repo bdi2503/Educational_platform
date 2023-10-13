@@ -1,5 +1,5 @@
 # Educational platform
-Goal: To calculate the main metrics of the educational platform in one query.
+Purpose: To calculate the main metrics of the educational platform in one query.
 Based on the data from the educational platform, I calculated the main metrics in one query:
 - ARPU; 
 - ARPU; 
